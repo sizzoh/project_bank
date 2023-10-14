@@ -1,0 +1,25 @@
+    body{
+        list-style: none;
+        text-decoration: none;
+    }
+    .follow-me{
+        margin-right: -9000px;
+       width: 50%;
+   
+       margin-left: 50%;
+       height:3%;
+       padding: 5px;
+       
+    }
+    .social-media{
+       width: 3em;
+       border-radius:12px;
+       cursor: pointer;
+       
+    }
+    .follow-me a{
+        display: inline;
+    }
+    #p{
+      margin-top: -22%;  
+    }
